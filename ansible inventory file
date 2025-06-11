@@ -1,0 +1,3 @@
+ansible/inventory.ini
+[webserver]
+70.153.80.56 ansible_user=azureuser  
